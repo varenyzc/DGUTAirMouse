@@ -1,0 +1,30 @@
+
+T303C 000:310 SEGGER J-Link V4.96d Log File (0001ms, 0279ms total)
+T303C 000:310 DLL Compiled: Jan 29 2015 11:45:37 (0001ms, 0279ms total)
+T303C 000:310 Logging started @ 2018-05-17 19:14 (0001ms, 0279ms total)
+T303C 000:311 JLINK_SetWarnOutHandler(...) (0000ms, 0279ms total)
+T303C 000:311 JLINK_OpenEx(...)
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N: 20090928
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0290ms, 0569ms total)
+T303C 000:601 JLINK_SetErrorOutHandler(...) (0000ms, 0569ms total)
+T303C 000:601 JLINK_ExecCommand("ProjectFile = "E:\电子\合泰\软件部份\合泰代码\合泰接收端\example\example\example\MDK_ARMv5\JLinkSettings.ini"", ...)  returns 0x00 (0001ms, 0570ms total)
+T303C 000:605 JLINK_ExecCommand("Device = HT32F1656", ...)Device "HT32F1656" selected.  returns 0x00 (0004ms, 0574ms total)
+T303C 000:609 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0574ms total)
+T303C 000:609 JLINK_GetHardwareVersion()  returns 0x11170 (0000ms, 0574ms total)
+T303C 000:609 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0574ms total)
+T303C 000:609 JLINK_GetFirmwareString(...) (0000ms, 0574ms total)
+T303C 000:634 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0574ms total)
+T303C 000:635 JLINK_GetCompileDateTime() (0000ms, 0574ms total)
+T303C 000:639 JLINK_GetFirmwareString(...) (0000ms, 0574ms total)
+T303C 000:641 JLINK_GetHardwareVersion()  returns 0x11170 (0000ms, 0574ms total)
+T303C 000:649 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0002ms, 0576ms total)
+T303C 000:651 JLINK_SetSpeed(20000) (0001ms, 0577ms total)
+T303C 000:652 JLINK_GetId() >0x108 TIF> >0x108 TIF>
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x00 (0000ms, 0000ms total)
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x00 (0000ms, 0000ms total)
+                returns 0x00000000 (0209ms, 0786ms total)
+T303C 001:676 JLINK_Close() (0001ms, 0787ms total)
+T303C 001:676  (0001ms, 0787ms total)
+T303C 001:676 Closed (0001ms, 0787ms total)

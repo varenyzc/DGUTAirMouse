@@ -1,0 +1,63 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\keil工程\空中鼠标发射端\USER\USBTOUCHMOUSE.uvproj
+Project File Date:  08/17/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(44): warning:  #550-D: variable "tmp_buf" was set but never used
+main.c(46): warning:  #177-D: variable "i" was declared but never referenced
+main.c(47): warning:  #177-D: variable "X1" was declared but never referenced
+main.c(47): warning:  #177-D: variable "Y1" was declared but never referenced
+compiling key.c...
+linking...
+Program Size: Code=18040 RO-data=468 RW-data=340 ZI-data=1860  
+FromELF: creating hex file...
+"..\OBJ\USBMOUSE.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=18040 RO-data=468 RW-data=340 ZI-data=1860  
+FromELF: creating hex file...
+"..\OBJ\USBMOUSE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(44): warning:  #550-D: variable "tmp_buf" was set but never used
+main.c(46): warning:  #177-D: variable "i" was declared but never referenced
+main.c(47): warning:  #177-D: variable "X1" was declared but never referenced
+main.c(47): warning:  #177-D: variable "Y1" was declared but never referenced
+linking...
+Program Size: Code=16024 RO-data=460 RW-data=340 ZI-data=1860  
+FromELF: creating hex file...
+"..\OBJ\USBMOUSE.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(44): warning:  #550-D: variable "tmp_buf" was set but never used
+main.c(46): warning:  #177-D: variable "i" was declared but never referenced
+main.c(47): warning:  #177-D: variable "X1" was declared but never referenced
+main.c(47): warning:  #177-D: variable "Y1" was declared but never referenced
+linking...
+Program Size: Code=16028 RO-data=460 RW-data=340 ZI-data=1860  
+FromELF: creating hex file...
+"..\OBJ\USBMOUSE.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(46): warning:  #177-D: variable "i" was declared but never referenced
+main.c(47): warning:  #177-D: variable "X1" was declared but never referenced
+main.c(47): warning:  #177-D: variable "Y1" was declared but never referenced
+linking...
+Program Size: Code=18052 RO-data=468 RW-data=340 ZI-data=1860  
+FromELF: creating hex file...
+"..\OBJ\USBMOUSE.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(46): warning:  #177-D: variable "i" was declared but never referenced
+main.c(47): warning:  #177-D: variable "X1" was declared but never referenced
+main.c(47): warning:  #177-D: variable "Y1" was declared but never referenced
+linking...
+Program Size: Code=18052 RO-data=468 RW-data=340 ZI-data=1860  
+FromELF: creating hex file...
+"..\OBJ\USBMOUSE.axf" - 0 Error(s), 3 Warning(s).
